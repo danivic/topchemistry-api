@@ -1,0 +1,27 @@
+{
+  "name": "topchemistry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "isc",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3",
+    "nodemailer": "^6.6.3",
+    "sequelize": "^6.6.4",
+    "tedious": "^11.0.9",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "add": "^2.0.6",
+    "nodemon": "^2.0.7",
+    "sequelize-cli": "^6.2.0"
+  }
+}
